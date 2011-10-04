@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    gollum-site (0.1.9)
+    gollum-site (0.1.10)
       directory_watcher
       gollum (>= 1.2.0)
       liquid (>= 2.2.2)
